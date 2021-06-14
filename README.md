@@ -28,16 +28,18 @@ I struggled quite a bit with the new material. I think the more I practice the m
 ## Victories
 PUTTING THE WHOLE THING TOGETHER!
 
+Starting to write with given code
+
 <img src= "./images/firstpart.png">
 
 ---
-Starting to write with the given code.
 
-<img src= "./images/style1.png"/>
+Yay! It finally works!
+
+<img src= "./images/works.png">
 
 ---
 
-The design aspect is proabably my favorite part of the process. I found another really cool resource for adding icons! I decided to utilize that also! 
 
 <img src= "./images/resources1.png"/>
 ## Resources 
