@@ -40,13 +40,14 @@ Yay! It finally works!
 
 ---
 
-
-<img src= "./images/resources1.png"/>
+I played around with the colors and other visual things
+I could change.
+<img src= "./images/color.png"/>
 ## Resources 
 
 <a href="#">GitHub Repo</a>
 
-<a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
+<a href="https://www.youtube.com/watch?v=eVGEea7adDM">YouTube</a>
 
 <a href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiLjJ7fosLvAhWXW80KHawRD_oQPAgI">Google</a>
 
